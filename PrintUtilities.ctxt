@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=void\ printComponent(java.awt.Component)
+comment1.params=componentToBePrinted
+comment1.target=PrintUtilities(java.awt.Component)
+comment2.params=
+comment2.target=void\ print()
+comment3.params=g\ pf\ pageIndex
+comment3.target=int\ print(java.awt.Graphics,\ java.awt.print.PageFormat,\ int)
+comment4.params=c
+comment4.target=void\ disableDoubleBuffering(java.awt.Component)
+comment5.params=c
+comment5.target=void\ enableDoubleBuffering(java.awt.Component)
+numComments=6
